@@ -1,4 +1,4 @@
-## Grails 8.0.0-SNAPSHOT Documentation
+## Grails 8.0.0 Documentation
 
 - [User Guide](https://grails.apache.org/docs/snapshot/guide/index.html)
 - [API Reference](https://grails.apache.org/docs/snapshot/api/index.html)
